@@ -1,0 +1,11 @@
+export let payment = 'https://res.cloudinary.com/dxguqzge7/image/upload/v1682838910/payment_mkel3w.jpg';
+export let profile = 'https://res.cloudinary.com/dxguqzge7/image/upload/v1682838912/vecteezy_user-avatar-line-style__x94mjc.jpg';
+export let MaleCloth = 'https://bossluxurywatch.vn/uploads/anh-dong-ho-dang-bao/5004/dh-fm-cua-nuoc-nao/0w7a5665.png';
+export let FemaleCloth = 'https://bossluxurywatch.vn/uploads/anh-muc-tin-tuc/thuy-linh/0-2023/thang-5/b9/2023-steel-rolex-daytona-watch-comparison-4-1536x899.jpg';
+export let GroupCloth = 'https://bossluxurywatch.vn/uploads/anh-dong-ho-dang-bao/5004/dh-fm-cua-nuoc-nao/0w7a4628.png';
+export let Electronics = 'https://bossluxurywatch.vn/uploads/anh-dong-ho-dang-bao/5004/dh-fm-cua-nuoc-nao/img-0045.png';
+export let Jewelry = 'https://cdn3.dhht.vn/wp-content/uploads/2022/12/dong-ho-wishdoit-cua-nuoc-nao-co-tot-khong-gia-bao-nhieu-bia.jpg';
+export let Shoes = 'https://media.vneconomy.vn/images/upload/2022/03/24/bvl1.png';
+export let Books = 'https://bossluxurywatch.vn/uploads/1-rolex-co/chopard-24.jpg';
+export let EmptyCart = 'https://res.cloudinary.com/dxguqzge7/image/upload/v1682838909/Cart_bk4xgl.jpg';
+export let customerReview = "https://res.cloudinary.com/dxguqzge7/image/upload/v1682838911/Review_bm6chw.jpg";
